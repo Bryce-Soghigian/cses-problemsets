@@ -21,8 +21,9 @@ def main(sequence):
                     del hashmap[sequence[left]]
 
                 left += 1
-        maximum = max(maximum, right-left + 1)
-    
+        maximum = max(maximum, r:)
+        ight-left + 1)
+
     print(maximum)
 
 
